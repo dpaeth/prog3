@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+//Ent- und verschlüsselt einen gegeben String mithilfe einer Entschlüsselungstabelle
 char a[] = {
         'a', 'b', 'c', 'd', 'e', 'f', 'g',
         'h', 'i', 'j', 'k', 'l', 'm', 'n',
