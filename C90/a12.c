@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-
+//Verschlüsselt gegebenen String nach dem SOUNDEX-Verfahren
 
 void soundex(const char s[], char res[]){
     int m = 0;
